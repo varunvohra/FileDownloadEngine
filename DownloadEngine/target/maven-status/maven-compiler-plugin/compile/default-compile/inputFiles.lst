@@ -1,0 +1,11 @@
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/VO/DownloadableFileVo.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/Utilities/TransferProtocolsUtility/FtpProtocolUtility.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/Services/FileInfoService.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/Utilities/TransferProtocolsUtility/BaseProtocolUtility.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/Factories/TransferProtocolFactory.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/helpers/DownloadHelper.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/Constants/ThreadPool.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/Utilities/TransferProtocolsUtility/SftpProtocolUtility.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/Models/FileDownloadJob.java
+/Users/varunvohra/DownloadEngine/src/main/java/DownloadEngine.java
+/Users/varunvohra/DownloadEngine/src/main/java/com/agodaservices/Utilities/TransferProtocolsUtility/HttpProtocolUtility.java

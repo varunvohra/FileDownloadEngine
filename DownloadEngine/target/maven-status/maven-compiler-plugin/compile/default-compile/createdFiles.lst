@@ -1,0 +1,11 @@
+com/agodaservices/Constants/ThreadPool.class
+com/agodaservices/Factories/TransferProtocolFactory.class
+com/agodaservices/Services/FileInfoService.class
+com/agodaservices/Utilities/TransferProtocolsUtility/HttpProtocolUtility.class
+com/agodaservices/Models/FileDownloadJob.class
+com/agodaservices/helpers/DownloadHelper.class
+com/agodaservices/Utilities/TransferProtocolsUtility/BaseProtocolUtility.class
+com/agodaservices/Utilities/TransferProtocolsUtility/SftpProtocolUtility.class
+com/agodaservices/VO/DownloadableFileVo.class
+DownloadEngine.class
+com/agodaservices/Utilities/TransferProtocolsUtility/FtpProtocolUtility.class
